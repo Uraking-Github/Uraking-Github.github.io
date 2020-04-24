@@ -46,7 +46,10 @@ footer {
 	padding: 1.5% 1.5%
 }
 
-
+.links ul{
+	margin: 0px;
+	padding: 1.5% 1.5%
+}
 .links li{
 	float: left;
 	list-style: none;
