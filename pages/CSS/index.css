@@ -10,7 +10,7 @@ header {
 }
 
 .head-main {
-	padding: 0px 500px;
+	padding: 0px 27%;
 }
 
 .main {
@@ -22,28 +22,28 @@ header {
 .self-head {
 	background-color: #DDD;
 	font-size: 24px;
-	padding: 0px 520px;
+	padding: 0px 27%;
 }
 
 .self-main {
-	padding: 0px 520px;
+	padding: 0px 27%;
 }
 
 footer {
 	background-color: #999;
 	font-size: 20px;
 	height: 60px;
-	padding: 10px 500px;
+	padding: 1% 26%;
 }
 
 .discord-id {
 	float: left;
-	padding: 20px 18px;
+	padding: 1.5% 1.5%;
 }
 
 .link-str {
 	float: left;
-	padding: 20px 18px
+	padding: 1.5% 1.5%
 }
 
 
@@ -51,5 +51,5 @@ footer {
 	float: left;
 	list-style: none;
 	font-size: 18px;
-	padding: 0px 18px;
+	padding: 0px 1.5%;
 }
