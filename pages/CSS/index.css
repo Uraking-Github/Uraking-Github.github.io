@@ -8,6 +8,11 @@ header {
 	font-size: 36px;
 	padding: 20px 40px;
 }
+img {
+	max-width: 100%;
+	height: auto;
+	width :auto;
+}
 
 .head-main {
 	padding: 0px 27%;
@@ -27,6 +32,23 @@ header {
 
 .self-main {
 	padding: 0px 27%;
+}
+
+.icon-self {
+	overflow: hidden;
+	display: inline-block;
+}
+
+.icon {
+	object-fit: contain;
+	vertical-align:top;
+	width:  30%;
+	margin:0px 0px;
+}
+
+.side-icon {
+	display: inline-block;
+	padding: 8% 0px
 }
 
 footer {
