@@ -1,5 +1,5 @@
 body {
-	margin: 0px 0px;
+    margin: 0px 0px;
 }
 
 header {
@@ -8,93 +8,95 @@ header {
     font-size: 36px;
     padding: 20px 40px;
 }
+
 img {
-	max-width: 100%;
-	height: auto;
-	width :auto;
+    max-width: 100%;
+    height: auto;
+    width: auto;
 }
 
 .head-main {
-	padding: 0px 27%;
+    padding: 0px 27%;
 }
 
-.siteLinks{
-	font-size: 16px;
-	background-color: #5ff;
+.siteLinks {
+    font-size: 16px;
+    background-color: #5ff;
 
 }
 
-.siteLinks ul{
-	display:flex;
-	flex-wrap:wrap;
-	justify-content: center;
+.siteLinks ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
     text-align: center;
     margin: 0px;
     line-height: 40px;
 }
 
-.siteLinks li{
-	list-style: none;
+.siteLinks li {
+    list-style: none;
 }
 
-.siteLink{
-	width:160px;
+.siteLink {
+    width: 160px;
 }
 
 .siteLink:hover {
-	background-color: #aff;
+    background-color: #aff;
 }
 
 .main {
-	background-color: #EEE;
-	font-size: 20px;
-	
+    background-color: #EEE;
+    font-size: 20px;
+
 }
 
-.main h1{
-	margin: 0px;
+.main h1 {
+    margin: 0px;
 }
 
 .inv {
-	color:#EEE;
+    color: #EEE;
 }
 
-.main-center{
-	padding:0px 27%;
+.main-center {
+    padding: 0px 27%;
 }
 
 .self-head {
-	background-color: #DDD;
-	font-size: 24px;
-	padding: 0px 27%;
+    background-color: #DDD;
+    font-size: 24px;
+    padding: 0px 27%;
 }
 
 
 
 footer {
-	background-color: #999;
-	font-size: 20px;
-	height: 60px;
-	padding: 1% 26%;
+    background-color: #999;
+    font-size: 20px;
+    height: 60px;
+    padding: 1% 26%;
 }
 
 .discord-id {
-	float: left;
-	padding: 1.5% 1.5%;
+    float: left;
+    padding: 1.5% 1.5%;
 }
 
 .link-str {
-	float: left;
-	padding: 1.5% 1.5%
+    float: left;
+    padding: 1.5% 1.5%
 }
 
-.links ul{
-	margin: 0px;
-	padding: 1.5% 1.5%
+.links ul {
+    margin: 0px;
+    padding: 1.5% 1.5%
 }
-.links li{
-	float: left;
-	list-style: none;
-	font-size: 18px;
-	padding: 0px 1.5%;
+
+.links li {
+    float: left;
+    list-style: none;
+    font-size: 18px;
+    padding: 0px 1.5%;
 }
