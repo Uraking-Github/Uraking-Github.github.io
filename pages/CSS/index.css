@@ -3,11 +3,40 @@ body {
 }
 
 header {
-	background-color: #26d0c9;
+	background-color: #def;
 	height: 60px;
 	font-size: 36px;
 	padding: 20px 40px;
 }
+
+.siteLinks{
+	font-size: 16px;
+	background-color: #5ff;
+
+}
+
+.siteLinks ul{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content: center;
+    text-align: center;
+    margin: 0px;
+    line-height: 40px;
+}
+
+.siteLinks li{
+	list-style: none;
+}
+
+.siteLink{
+	width:160px;
+}
+
+.siteLink:hover {
+	background-color: #aff;
+}
+
+
 img {
 	max-width: 100%;
 	height: auto;
