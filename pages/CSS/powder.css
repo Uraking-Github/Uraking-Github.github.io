@@ -1,0 +1,107 @@
+body {
+	margin: 0px 0px;
+}
+
+header {
+	background-color: #26d0c9;
+	height: 60px;
+	font-size: 36px;
+	padding: 20px 40px;
+}
+img {
+	max-width: 100%;
+	height: auto;
+	width :auto;
+}
+
+.head-main {
+	padding: 0px 27%;
+}
+
+.siteLinks{
+	font-size: 16px;
+	background-color: #5ff;
+
+}
+
+.siteLinks ul{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content: center;
+    text-align: center;
+    margin: 0px;
+    line-height: 40px;
+}
+
+.siteLinks li{
+	list-style: none;
+}
+
+.siteLink{
+	width:160px;
+}
+
+.siteLink:hover {
+	background-color: #aff;
+}
+
+.main {
+	background-color: #EEE;
+	font-size: 20px;
+	
+}
+
+.self-head {
+	background-color: #DDD;
+	font-size: 24px;
+	padding: 0px 27%;
+}
+
+.self-main {
+	padding: 0px 27%;
+}
+
+.icon-self {
+	overflow: hidden;
+	display: inline-block;
+}
+
+.icon {
+	object-fit: contain;
+	vertical-align:top;
+	width:  30%;
+	margin:0px 0px;
+}
+
+.side-icon {
+	display: inline-block;
+	padding: 8% 0px
+}
+
+footer {
+	background-color: #999;
+	font-size: 20px;
+	height: 60px;
+	padding: 1% 26%;
+}
+
+.discord-id {
+	float: left;
+	padding: 1.5% 1.5%;
+}
+
+.link-str {
+	float: left;
+	padding: 1.5% 1.5%
+}
+
+.links ul{
+	margin: 0px;
+	padding: 1.5% 1.5%
+}
+.links li{
+	float: left;
+	list-style: none;
+	font-size: 18px;
+	padding: 0px 1.5%;
+}
