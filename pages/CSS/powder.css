@@ -3,10 +3,10 @@ body {
 }
 
 header {
-	background-color: #26d0c9;
-	height: 60px;
-	font-size: 36px;
-	padding: 20px 40px;
+    background-color: #def;
+    height: 60px;
+    font-size: 36px;
+    padding: 20px 40px;
 }
 img {
 	max-width: 100%;
@@ -51,32 +51,25 @@ img {
 	
 }
 
+.main h1{
+	margin: 0px;
+}
+
+.inv {
+	color:#EEE;
+}
+
+.main-center{
+	padding:0px 27%;
+}
+
 .self-head {
 	background-color: #DDD;
 	font-size: 24px;
 	padding: 0px 27%;
 }
 
-.self-main {
-	padding: 0px 27%;
-}
 
-.icon-self {
-	overflow: hidden;
-	display: inline-block;
-}
-
-.icon {
-	object-fit: contain;
-	vertical-align:top;
-	width:  30%;
-	margin:0px 0px;
-}
-
-.side-icon {
-	display: inline-block;
-	padding: 8% 0px
-}
 
 footer {
 	background-color: #999;
